@@ -1,0 +1,12 @@
+D:\Repos\MexicoStateFactsApp\MexicoStateFacts\MexicoStateFacts\MexicoFacts.Domain\bin\Debug\net5.0\MexicoFacts.Domain.deps.json
+D:\Repos\MexicoStateFactsApp\MexicoStateFacts\MexicoStateFacts\MexicoFacts.Domain\bin\Debug\net5.0\MexicoFacts.Domain.dll
+D:\Repos\MexicoStateFactsApp\MexicoStateFacts\MexicoStateFacts\MexicoFacts.Domain\bin\Debug\net5.0\ref\MexicoFacts.Domain.dll
+D:\Repos\MexicoStateFactsApp\MexicoStateFacts\MexicoStateFacts\MexicoFacts.Domain\bin\Debug\net5.0\MexicoFacts.Domain.pdb
+D:\Repos\MexicoStateFactsApp\MexicoStateFacts\MexicoStateFacts\MexicoFacts.Domain\obj\Debug\net5.0\MexicoFacts.Domain.csproj.AssemblyReference.cache
+D:\Repos\MexicoStateFactsApp\MexicoStateFacts\MexicoStateFacts\MexicoFacts.Domain\obj\Debug\net5.0\MexicoFacts.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\MexicoStateFactsApp\MexicoStateFacts\MexicoStateFacts\MexicoFacts.Domain\obj\Debug\net5.0\MexicoFacts.Domain.AssemblyInfoInputs.cache
+D:\Repos\MexicoStateFactsApp\MexicoStateFacts\MexicoStateFacts\MexicoFacts.Domain\obj\Debug\net5.0\MexicoFacts.Domain.AssemblyInfo.cs
+D:\Repos\MexicoStateFactsApp\MexicoStateFacts\MexicoStateFacts\MexicoFacts.Domain\obj\Debug\net5.0\MexicoFacts.Domain.csproj.CoreCompileInputs.cache
+D:\Repos\MexicoStateFactsApp\MexicoStateFacts\MexicoStateFacts\MexicoFacts.Domain\obj\Debug\net5.0\MexicoFacts.Domain.dll
+D:\Repos\MexicoStateFactsApp\MexicoStateFacts\MexicoStateFacts\MexicoFacts.Domain\obj\Debug\net5.0\ref\MexicoFacts.Domain.dll
+D:\Repos\MexicoStateFactsApp\MexicoStateFacts\MexicoStateFacts\MexicoFacts.Domain\obj\Debug\net5.0\MexicoFacts.Domain.pdb
