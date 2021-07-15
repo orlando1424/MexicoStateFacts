@@ -52,7 +52,6 @@ D:\Repos\MexicoStateFactsApp\MexicoStateFacts\MexicoStateFacts\MexicoStateFacts\
 D:\Repos\MexicoStateFactsApp\MexicoStateFacts\MexicoStateFacts\MexicoStateFacts\obj\Debug\net5.0\MexicoStateFacts.RazorAssemblyInfo.cache
 D:\Repos\MexicoStateFactsApp\MexicoStateFacts\MexicoStateFacts\MexicoStateFacts\obj\Debug\net5.0\MexicoStateFacts.RazorAssemblyInfo.cs
 D:\Repos\MexicoStateFactsApp\MexicoStateFacts\MexicoStateFacts\MexicoStateFacts\obj\Debug\net5.0\staticwebassets\MexicoStateFacts.StaticWebAssets.Manifest.cache
-D:\Repos\MexicoStateFactsApp\MexicoStateFacts\MexicoStateFacts\MexicoStateFacts\obj\Debug\net5.0\staticwebassets\MexicoStateFacts.StaticWebAssets.xml
 D:\Repos\MexicoStateFactsApp\MexicoStateFacts\MexicoStateFacts\MexicoStateFacts\obj\Debug\net5.0\scopedcss\bundle\MexicoStateFacts.styles.css
 D:\Repos\MexicoStateFactsApp\MexicoStateFacts\MexicoStateFacts\MexicoStateFacts\obj\Debug\net5.0\MexicoStateFacts.TagHelpers.input.cache
 D:\Repos\MexicoStateFactsApp\MexicoStateFacts\MexicoStateFacts\MexicoStateFacts\obj\Debug\net5.0\MexicoStateFacts.TagHelpers.output.cache
