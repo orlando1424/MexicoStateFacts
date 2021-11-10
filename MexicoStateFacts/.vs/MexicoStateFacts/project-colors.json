@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "401b6ead-9ce4-4c8b-ae35-27b943f5e3b3": {
+      "ProjectGuid": "401b6ead-9ce4-4c8b-ae35-27b943f5e3b3",
+      "DisplayName": "MexicoFacts.Domain",
+      "ColorIndex": 0
+    },
+    "64f5c99c-4607-49f5-b088-337acd80aa6c": {
+      "ProjectGuid": "64f5c99c-4607-49f5-b088-337acd80aa6c",
+      "DisplayName": "MexicoFacts.UI",
+      "ColorIndex": 1
+    },
+    "e5e95518-0f8f-4ee4-8aeb-2f066efe1907": {
+      "ProjectGuid": "e5e95518-0f8f-4ee4-8aeb-2f066efe1907",
+      "DisplayName": "MexicoStateFacts",
+      "ColorIndex": 2
+    },
+    "de906dec-fbf0-4d59-a3e3-2e10f78f0bcc": {
+      "ProjectGuid": "de906dec-fbf0-4d59-a3e3-2e10f78f0bcc",
+      "DisplayName": "MexicoFacts.Data",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

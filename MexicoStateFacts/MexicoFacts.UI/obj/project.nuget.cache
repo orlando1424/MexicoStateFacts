@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "QCwFiJor2qxUHmRvO6xSa4bJguf3lNlCble1QJ6b3kcKoEE94jUbdHWsf7BCfNhHwC4QsKHkkl6YphxFW8DoaA==",
+  "dgSpecHash": "dIxFV/Oyq9YSJS2KHjeV2DvoJ0VdU8qgDPLzIzwsBTXgwEL2IEx6HBP3MuEUixc3RmHC1ZeY5TVp30yIbdhVUQ==",
   "success": true,
   "projectFilePath": "D:\\Repos\\MexicoStateFactsApp\\MexicoStateFacts\\MexicoStateFacts\\MexicoFacts.UI\\MexicoFacts.UI.csproj",
   "expectedPackageFiles": [
@@ -99,7 +99,8 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\Orlando\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
   ],
   "logs": []
 }
